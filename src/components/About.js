@@ -74,9 +74,10 @@ function About() {
               animate={{ opacity: 1, y: 0 }}
               transition={{ duration: 0.8, delay: 0.6 }}
             >
-              As a graphics designer, I’ve worked with a range of design tools,
-              from Adobe Creative Suite to Sketch and Figma. I’m passionate
-              about creating visually appealing designs and crafting unique
+              As a graphic designer, I’m eager to collaborate with others and
+              learn from experienced professionals. My passion lies in using
+              design tools like Adobe Creative Suite to create visually
+              appealing designs that tell unique stories and build impactful
               brand identities.
             </Text>
             <Flex

@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/static/css/main.ae07bfbb.css",
+    "main.js": "/static/js/main.e52a7a2f.js",
+    "static/media/logo-5.png": "/static/media/logo-5.de8a054715895fb7dc61.png",
+    "static/media/logo1.png": "/static/media/logo1.90f6a94fe47b6427002e.png",
+    "static/media/logo3.png": "/static/media/logo3.15a749073d9c474133db.png",
+    "static/media/badge4.png": "/static/media/badge4.763635512b45c111a482.png",
+    "static/media/postcard.png": "/static/media/postcard.bc944ebc46607fb2c723.png",
+    "static/media/tshirt2.png": "/static/media/tshirt2.113fd4e1292ef84ed8df.png",
+    "static/media/poster2.png": "/static/media/poster2.e7f0160f792065d51de7.png",
+    "static/media/photo.png": "/static/media/photo.2606b9b1b30b64aee521.png",
+    "static/media/badge6.png": "/static/media/badge6.a88aacc118d3ee1ee462.png",
+    "static/media/badge5.png": "/static/media/badge5.42090be5e9822abdd9d8.png",
+    "static/media/thumbnail5.png": "/static/media/thumbnail5.90cca205bda8b02a0da3.png",
+    "static/media/thumbnail4.png": "/static/media/thumbnail4.39041aaacec658376d2e.png",
+    "static/media/thumbnail3.png": "/static/media/thumbnail3.c4082f3298e5a412fe04.png",
+    "static/media/coffee mokup.png": "/static/media/coffee mokup.fc643032989cdfbeca9b.png",
+    "static/media/logo.png": "/static/media/logo.bb95ef77880e42db9eb1.png",
+    "static/media/revicons.eot": "/static/media/revicons.a77de540a38981833f9e.eot",
+    "static/media/revicons.ttf": "/static/media/revicons.57fd05d4ae650374c8de.ttf",
+    "static/media/revicons.woff": "/static/media/revicons.e8746a624ed098489406.woff",
+    "index.html": "/index.html",
+    "main.ae07bfbb.css.map": "/static/css/main.ae07bfbb.css.map",
+    "main.e52a7a2f.js.map": "/static/js/main.e52a7a2f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ae07bfbb.css",
+    "static/js/main.e52a7a2f.js"
+  ]
+}
